@@ -1,2 +1,2 @@
 # getskills
-Creating a new branch is quick AND simple.dsdsdfasd
+Git is a free software ...
